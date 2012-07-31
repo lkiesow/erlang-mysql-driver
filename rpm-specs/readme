@@ -1,0 +1,3 @@
+This SPEC file can be used for creating RPM packes of the erlang-mysql-driver.
+For more information about how to create RPMs have a look at:
+http://fedoraproject.org/wiki/How_to_create_an_RPM_package
